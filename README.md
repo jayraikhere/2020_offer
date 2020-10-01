@@ -5,6 +5,9 @@ Nice repository for begineers to contribute
 
 you can contribute here.
 
+I contributed....
+
+
 If you dont want then dont contribute
 Hacktober fest 2020
 
@@ -18,6 +21,7 @@ Nice Initiative by the owner of this repository
 why should i contribute.
 
 Great initiative by digital ocean
+
 
 
 
