@@ -17,6 +17,8 @@ so this is very exiting you see let us c.
 
 Nice Initiative by the owner of this repository
 
+This is new offer 
+This is very useful for us.
 
 why should i contribute.
 
